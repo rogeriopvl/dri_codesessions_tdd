@@ -3,7 +3,7 @@
 
 ### About
 #### Talk
-This is a presentation containing an introduction to Test Driven Development.
+This is a presentation containing an introduction to Test Driven Development focused on PHP.
 Contains code samples that with tests using the PHPUnit framework.
 #### Author
 I'm in no way a TDD expert. Creating this talk allowed me to learn more about TDD and Unit Testing and to share this knowledge with everyone present at the talk.
